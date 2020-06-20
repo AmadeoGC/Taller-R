@@ -1,2 +1,4 @@
-# Taller-R
-Taller de temas relacionados al uso de R
+# Taller-R (Aquabench)
+Taller de introducción a R (Manipulación y Visualización de datos con R)
+
+Se va a ir agregando material en este repositorio a medida que se hacen más talleres......
